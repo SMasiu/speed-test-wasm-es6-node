@@ -1,0 +1,15 @@
+{
+  "name": "speed_test",
+  "collaborators": [
+    "smasiu <szymon.masko.dev@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "speed_test_bg.wasm",
+    "speed_test.js",
+    "speed_test_bg.js",
+    "speed_test.d.ts"
+  ],
+  "main": "speed_test.js",
+  "types": "speed_test.d.ts"
+}
